@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gamedev">e:\apps\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="Godot4">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Godot4\</Path>
+                  <Path Filename="Defold">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Defold\</Path>
+                  <Path Filename="jdk1.8.0_402">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\jdk1.8.0_402\</Path>
+                  <Path Filename="PhaserEditor2D-allInOne">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\PhaserEditor2D-allInOne\</Path>
+                  <Path Filename="cocos">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\cocos\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="Godot_v4.3-dev5_win64.exe">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="LuaMacros.exe">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">e:\apps\gral\</Path>
+                  <Path Filename="art2d">e:\apps\</Path>
+                  <Path Filename="ffmpeg">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="lib">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\lib\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="lanzador.bat">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="27-GitGithubAndVersionControl">D:\apz\maps\progr\web\0douga\AngelaYui\</Path>
+                  <Path Filename="05-Cloning.mp4">D:\apz\maps\progr\web\0douga\AngelaYui\27-GitGithubAndVersionControl\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gamedev">e:\apps\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="Godot4">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Godot4\</Path>
+                  <Path Filename="Defold">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Defold\</Path>
+                  <Path Filename="jdk1.8.0_402">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\jdk1.8.0_402\</Path>
+                  <Path Filename="PhaserEditor2D-allInOne">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\PhaserEditor2D-allInOne\</Path>
+                  <Path Filename="cocos">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\cocos\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="Godot_v4.3-dev5_win64.exe">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="LuaMacros.exe">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">e:\apps\gral\</Path>
+                  <Path Filename="art2d">e:\apps\</Path>
+                  <Path Filename="ffmpeg">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="lib">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\lib\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="lanzador.bat">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="GamesEpic">f:\</Path>
+                  <Path Filename="..">f:\GamesEpic\</Path>
+                  <Path Filename="GamesEpic">f:\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unreal\</Path>
+                  <Path Filename="winOLD">e:\</Path>
+                  <Path Filename="Videos">e:\winOLD\</Path>
+                  <Path Filename="video720B.blend">e:\winOLD\Videos\</Path>
+                  <Path Filename="Videos">e:\winOLD\</Path>
+                  <Path Filename="win">e:\</Path>
+                  <Path Filename="Videos">e:\win\</Path>
+                  <Path Filename="video720.blend">e:\win\Videos\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gamedev">e:\apps\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="Godot4">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Godot4\</Path>
+                  <Path Filename="Defold">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Defold\</Path>
+                  <Path Filename="jdk1.8.0_402">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\jdk1.8.0_402\</Path>
+                  <Path Filename="PhaserEditor2D-allInOne">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\PhaserEditor2D-allInOne\</Path>
+                  <Path Filename="cocos">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\cocos\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="Godot_v4.3-dev5_win64.exe">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="LuaMacros.exe">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">e:\apps\gral\</Path>
+                  <Path Filename="art2d">e:\apps\</Path>
+                  <Path Filename="ffmpeg">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="lib">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\lib\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="lanzador.bat">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="nonono.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\0media\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="25_collectionFramework">D:\apz\maps\progr\leng\java\0douga\AbdulBari\</Path>
+                  <Path Filename="05_UnderstandingListSetInterfaces.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\25_collectionFramework\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gamedev">e:\apps\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="Godot4">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Godot4\</Path>
+                  <Path Filename="Defold">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\Defold\</Path>
+                  <Path Filename="jdk1.8.0_402">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\jdk1.8.0_402\</Path>
+                  <Path Filename="PhaserEditor2D-allInOne">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\PhaserEditor2D-allInOne\</Path>
+                  <Path Filename="cocos">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\cocos\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="Godot_v4.3-dev5_win64.exe">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="LuaMacros.exe">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">e:\apps\gral\</Path>
+                  <Path Filename="art2d">e:\apps\</Path>
+                  <Path Filename="ffmpeg">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="lib">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\lib\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="lanzador.bat">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="nonono.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\0media\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="25_collectionFramework">D:\apz\maps\progr\leng\java\0douga\AbdulBari\</Path>
+                  <Path Filename="05_UnderstandingListSetInterfaces.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\25_collectionFramework\</Path>
+                  <Path Filename="pruebas">D:\apz\</Path>
+                  <Path Filename="vue99">D:\apz\pruebas\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="cocos">e:\apps\gamedev\</Path>
+                  <Path Filename="..">e:\apps\gamedev\cocos\</Path>
+                  <Path Filename="godot">e:\apps\gamedev\</Path>
+                  <Path Filename="Godot_v4.3-dev5_win64.exe">e:\apps\gamedev\godot\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="LuaMacros.exe">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="..">e:\apps\gral\</Path>
+                  <Path Filename="art2d">e:\apps\</Path>
+                  <Path Filename="ffmpeg">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="lib">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\lib\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="ffmpeg-7.0-full_build-shared">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\art2d\ffmpeg-7.0-full_build-shared\</Path>
+                  <Path Filename="..">e:\apps\art2d\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gral">e:\apps\</Path>
+                  <Path Filename="LuaMacros">e:\apps\gral\</Path>
+                  <Path Filename="lanzador.bat">e:\apps\gral\LuaMacros\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="jejeje">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="nonono.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\0media\</Path>
+                  <Path Filename="0media">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\jejeje\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\leng\java\0douga\AbdulBari\01_introduction\</Path>
+                  <Path Filename="25_collectionFramework">D:\apz\maps\progr\leng\java\0douga\AbdulBari\</Path>
+                  <Path Filename="05_UnderstandingListSetInterfaces.mp4">D:\apz\maps\progr\leng\java\0douga\AbdulBari\25_collectionFramework\</Path>
+                  <Path Filename="pruebas">D:\apz\</Path>
+                  <Path Filename="vue99">D:\apz\pruebas\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\</Path>
+                  <Path Filename="pcjava">e:\misapps\</Path>
+                  <Path Filename="ApazaMmpTool">e:\misapps\pcjava\</Path>
+                  <Path Filename="out">e:\misapps\pcjava\ApazaMmpTool\</Path>
+                  <Path Filename="artifacts">e:\misapps\pcjava\ApazaMmpTool\out\</Path>
+                  <Path Filename="ApazaMmpTool_jar">e:\misapps\pcjava\ApazaMmpTool\out\artifacts\</Path>
+                  <Path Filename="..">e:\misapps\pcjava\ApazaMmpTool\out\artifacts\ApazaMmpTool_jar\</Path>
+                  <Path Filename="..">e:\misapps\pcjava\ApazaMmpTool\out\artifacts\</Path>
+                  <Path Filename="..">e:\misapps\pcjava\ApazaMmpTool\out\</Path>
+                  <Path Filename="..">e:\misapps\pcjava\ApazaMmpTool\</Path>
+                  <Path Filename="CompresorTuts">e:\misapps\pcjava\</Path>
+                  <Path Filename="pcjava">e:\misapps\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>1</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="doublecmd.help">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="backup">g:\</Path>
+                  <Path Filename="llaves.csv">h:\</Path>
+                  <Path Filename="..">C:\Program Files\Double Commander\</Path>
+                  <Path Filename="..">D:\apz\pruebas\</Path>
+                  <Path Filename="0assets">D:\apz\</Path>
+                  <Path Filename="fonts">D:\apz\0assets\</Path>
+                  <Path Filename="PTSans-Bold.ttf">D:\apz\0assets\fonts\</Path>
+                  <Path Filename="fonts">D:\apz\0assets\</Path>
+                  <Path Filename="templates">D:\apz\</Path>
+                  <Path Filename="tutorial">D:\apz\templates\</Path>
+                  <Path Filename="..">D:\apz\templates\tutorial\</Path>
+                  <Path Filename="..">D:\apz\templates\</Path>
+                  <Path Filename="0assets">D:\apz\</Path>
+                  <Path Filename="fonts">D:\apz\0assets\</Path>
+                  <Path Filename="..">D:\apz\0assets\fonts\</Path>
+                  <Path Filename="..">D:\apz\0assets\</Path>
+                  <Path Filename="templates">D:\apz\</Path>
+                  <Path Active="True" Filename="web">D:\apz\templates\</Path>
+                  <Path Filename="..">D:\apz\templates\web\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\svelte\</Path>
+                  <Path Filename="vue">D:\apz\maps\progr\frmwrk\</Path>
+                  <Path Filename="0douga">D:\apz\maps\progr\frmwrk\vue\</Path>
+                  <Path Filename="Vue3Fundamentals">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="Vue3Fundamentals">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="Vue3Fundamentals">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\</Path>
+                  <Path Filename="react">D:\apz\maps\progr\frmwrk\</Path>
+                  <Path Filename="0douga">D:\apz\maps\progr\frmwrk\react\</Path>
+                  <Path Filename="ReactCompleteGuide">D:\apz\maps\progr\frmwrk\react\0douga\</Path>
+                  <Path Filename="19-AdvancedRedux">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\19-AdvancedRedux\</Path>
+                  <Path Filename="01-GettingStarted">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\01-GettingStarted\</Path>
+                  <Path Filename="20-BuildingAMultiPageSPAwithReactRouter">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="vue">D:\apz\maps\progr\frmwrk\</Path>
+                  <Path Filename="0douga">D:\apz\maps\progr\frmwrk\vue\</Path>
+                  <Path Filename="Vue3Fundamentals">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="1-Overview">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\1-Overview\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\Vue3Fundamentals\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\0douga\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\vue\</Path>
+                  <Path Filename="react">D:\apz\maps\progr\frmwrk\</Path>
+                  <Path Filename="0douga">D:\apz\maps\progr\frmwrk\react\</Path>
+                  <Path Filename="ReactCompleteGuide">D:\apz\maps\progr\frmwrk\react\0douga\</Path>
+                  <Path Filename="01-GettingStarted">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\01-GettingStarted\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="ReactCompleteGuide">D:\apz\maps\progr\frmwrk\react\0douga\</Path>
+                  <Path Filename="01-GettingStarted">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\01-GettingStarted\</Path>
+                  <Path Filename="..">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="ReactCompleteGuide">D:\apz\maps\progr\frmwrk\react\0douga\</Path>
+                  <Path Filename="31-ThisCourseGotUpdated">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\</Path>
+                  <Path Filename="01-CourseUpdateOverviewExplanationMigrationGuide.mp4">D:\apz\maps\progr\frmwrk\react\0douga\ReactCompleteGuide\31-ThisCourseGotUpdated\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="unity">e:\apps\gmdev\</Path>
+                  <Path Filename="Descargas">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\Descargas\</Path>
+                  <Path Filename="Editor">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\Editor\</Path>
+                  <Path Filename="Unity Hub">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\Unity Hub\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\</Path>
+                  <Path Filename="..">e:\apps\</Path>
+                  <Path Filename="apps">e:\</Path>
+                  <Path Filename="gmdev">e:\apps\</Path>
+                  <Path Filename="unity">e:\apps\gmdev\</Path>
+                  <Path Filename="Unity Hub">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\Unity Hub\</Path>
+                  <Path Filename="Unity Hub">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unity\Unity Hub\</Path>
+                  <Path Filename="Unity Hub">e:\apps\gmdev\unity\</Path>
+                  <Path Filename="cocos">e:\apps\gmdev\</Path>
+                  <Path Filename="..">e:\apps\gmdev\cocos\</Path>
+                  <Path Filename="unreal">e:\apps\gmdev\</Path>
+                  <Path Filename="..">e:\apps\gmdev\unreal\</Path>
+                  <Path Filename="ctjs">e:\apps\gmdev\</Path>
+                  <Path Filename="..">e:\apps\gmdev\ctjs\</Path>
+                  <Path Filename="ctjs">e:\apps\gmdev\</Path>
+                  <Path Filename="..">e:\apps\gmdev\ctjs\</Path>
+                  <Path Filename="ctjs">e:\apps\gmdev\</Path>
+                  <Path Filename="gmdev">e:\apps\</Path>
+                  <Path Filename="misapps">e:\</Path>
+                  <Path Filename="pccsharp">e:\misapps\</Path>
+                  <Path Filename="ChauchitarPHPs">e:\misapps\pccsharp\</Path>
+                  <Path Filename="bin">e:\misapps\pccsharp\ChauchitarPHPs\</Path>
+                  <Path Filename="Debug">e:\misapps\pccsharp\ChauchitarPHPs\bin\</Path>
+                  <Path Filename="net7.0-windows">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\net7.0-windows\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\</Path>
+                  <Path Filename="bin">e:\misapps\pccsharp\ChauchitarPHPs\</Path>
+                  <Path Filename="Debug">e:\misapps\pccsharp\ChauchitarPHPs\bin\</Path>
+                  <Path Filename="net7.0-windows">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\net7.0-windows\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="Debug">e:\misapps\pccsharp\ChauchitarPHPs\bin\</Path>
+                  <Path Filename="net8.0-windows">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\net8.0-windows\</Path>
+                  <Path Filename="net8.0-windows">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\net8.0-windows\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\Debug\</Path>
+                  <Path Filename="..">e:\misapps\pccsharp\ChauchitarPHPs\bin\</Path>
+                  <Path Filename="bin">e:\misapps\pccsharp\ChauchitarPHPs\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>
